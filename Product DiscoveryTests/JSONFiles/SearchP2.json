@@ -1,0 +1,779 @@
+{
+    "code": "SUCCESS",
+    "result": {
+        "products": [
+            {
+                "displayName": "",
+                "color": {
+                    "code": "007",
+                    "name": "Đen"
+                },
+                "tags": [],
+                "promotionPrices": [],
+                "promotions": [],
+                "flashSales": [],
+                "attributeSet": {
+                    "id": 1,
+                    "name": "Laptop"
+                },
+                "categories": [
+                    {
+                        "id": 103,
+                        "code": "01-N001-04-01-01",
+                        "name": "Laptop Lenovo Option 1.1",
+                        "level": 4,
+                        "parentId": 101
+                    }
+                ],
+                "magentoId": 18623,
+                "seoInfo": {
+                    "metaKeyword": null,
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "shortDescription": "- CPU: <br>- Màn hình: <br>- Đồ họa: <br>- Lưu trữ: <br>- Hệ điều hành: <br>- Pin:",
+                    "description": null
+                },
+                "rating": {
+                    "averagePoint": null,
+                    "voteCount": 0
+                },
+                "allActiveFlashSales": [],
+                "sku": "1303454",
+                "name": "Laptop/ Máy tính xách tay Lenovo Ideapad S410p-59400053 (I3-4010U) (Đen)",
+                "url": "laptop-may-tinh-xach-tay-lenovo-ideapad-s410p-59400053-i3-4010u-den",
+                "brand": {
+                    "code": "LENOVO",
+                    "name": "Lenovo"
+                },
+                "status": {
+                    "publish": false,
+                    "sale": "ngung_kinh_doanh"
+                },
+                "objective": {
+                    "code": "sale",
+                    "name": "Hàng để bán"
+                },
+                "productType": {
+                    "code": "product",
+                    "name": "Sản phẩm có thể lưu trữ"
+                },
+                "images": [],
+                "price": {
+                    "supplierSalePrice": null,
+                    "sellPrice": null
+                },
+                "productLine": {
+                    "code": "NGH01",
+                    "name": "Laptop / Apple"
+                },
+                "stocks": [],
+                "totalAvailable": null,
+                "isBundle": null,
+                "bundleProducts": null,
+                "parentBundles": null,
+                "totalAvailableByStocks": []
+            },
+            {
+                "displayName": "",
+                "color": {
+                    "code": "074",
+                    "name": "Xanh"
+                },
+                "tags": [],
+                "promotionPrices": [],
+                "promotions": [],
+                "flashSales": [],
+                "attributeSet": {
+                    "id": 1,
+                    "name": "Laptop"
+                },
+                "categories": [
+                    {
+                        "id": 91,
+                        "code": "01-N001-02-01-01",
+                        "name": "Laptop Asus Option 1.1",
+                        "level": 4,
+                        "parentId": 89
+                    }
+                ],
+                "magentoId": 18627,
+                "seoInfo": {
+                    "metaKeyword": null,
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "shortDescription": "- CPU: <br>- Màn hình: <br>- Đồ họa: <br>- Lưu trữ: <br>- Hệ điều hành: <br>- Pin:",
+                    "description": null
+                },
+                "rating": {
+                    "averagePoint": null,
+                    "voteCount": 0
+                },
+                "allActiveFlashSales": [],
+                "sku": "1303461",
+                "name": "Laptop/ Máy tính xách tay Asus X201E-KX187D (I3-3217U) (Xanh)",
+                "url": "laptop-may-tinh-xach-tay-asus-x201e-kx187d-i3-3217u-xanh",
+                "brand": {
+                    "code": "ASUS",
+                    "name": "ASUS"
+                },
+                "status": {
+                    "publish": false,
+                    "sale": "ngung_kinh_doanh"
+                },
+                "objective": {
+                    "code": "sale",
+                    "name": "Hàng để bán"
+                },
+                "productType": {
+                    "code": "product",
+                    "name": "Sản phẩm có thể lưu trữ"
+                },
+                "images": [],
+                "price": {
+                    "supplierSalePrice": null,
+                    "sellPrice": null
+                },
+                "productLine": {
+                    "code": "NGH01",
+                    "name": "Laptop / Apple"
+                },
+                "stocks": [],
+                "totalAvailable": null,
+                "isBundle": null,
+                "bundleProducts": null,
+                "parentBundles": null,
+                "totalAvailableByStocks": []
+            },
+            {
+                "displayName": "",
+                "color": {
+                    "code": "072",
+                    "name": "Xám"
+                },
+                "tags": [],
+                "promotionPrices": [],
+                "promotions": [],
+                "flashSales": [],
+                "attributeSet": {
+                    "id": 1,
+                    "name": "Laptop"
+                },
+                "categories": [
+                    {
+                        "id": 93,
+                        "code": "01-N001-02-02-01",
+                        "name": "Laptop Asus Win 1.1",
+                        "level": 4,
+                        "parentId": 90
+                    }
+                ],
+                "magentoId": 18650,
+                "seoInfo": {
+                    "metaKeyword": null,
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "shortDescription": "- CPU: <br>- Màn hình: <br>- Đồ họa: <br>- Lưu trữ: <br>- Hệ điều hành: <br>- Pin:",
+                    "description": null
+                },
+                "rating": {
+                    "averagePoint": null,
+                    "voteCount": 0
+                },
+                "allActiveFlashSales": [],
+                "sku": "1303532",
+                "name": "Laptop/ Máy tính xách tay Asus X550LB-XX038H (I7-4500U) (Xám)",
+                "url": "laptop-may-tinh-xach-tay-asus-x550lb-xx038h-i7-4500u-xam",
+                "brand": {
+                    "code": "ASUS",
+                    "name": "ASUS"
+                },
+                "status": {
+                    "publish": false,
+                    "sale": "ngung_kinh_doanh"
+                },
+                "objective": {
+                    "code": "sale",
+                    "name": "Hàng để bán"
+                },
+                "productType": {
+                    "code": "product",
+                    "name": "Sản phẩm có thể lưu trữ"
+                },
+                "images": [],
+                "price": {
+                    "supplierSalePrice": null,
+                    "sellPrice": null
+                },
+                "productLine": {
+                    "code": "NGH01",
+                    "name": "Laptop / Apple"
+                },
+                "stocks": [],
+                "totalAvailable": null,
+                "isBundle": null,
+                "bundleProducts": null,
+                "parentBundles": null,
+                "totalAvailableByStocks": []
+            },
+            {
+                "displayName": "",
+                "color": {
+                    "code": "007",
+                    "name": "Đen"
+                },
+                "tags": [],
+                "promotionPrices": [],
+                "promotions": [],
+                "flashSales": [],
+                "attributeSet": {
+                    "id": 1,
+                    "name": "Laptop"
+                },
+                "categories": [
+                    {
+                        "id": 97,
+                        "code": "01-N001-03-01-01",
+                        "name": "Laptop Dell Option 1.1",
+                        "level": 4,
+                        "parentId": 95
+                    }
+                ],
+                "magentoId": 18772,
+                "seoInfo": {
+                    "metaKeyword": null,
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "shortDescription": "- CPU: <br>- Màn hình: <br>- Đồ họa: <br>- Lưu trữ: <br>- Hệ điều hành: <br>- Pin:",
+                    "description": null
+                },
+                "rating": {
+                    "averagePoint": null,
+                    "voteCount": 0
+                },
+                "allActiveFlashSales": [],
+                "sku": "1304042",
+                "name": "Laptop/ Máy tính xách tay Dell Latude 3540-L3540A (Đen)",
+                "url": "laptop-may-tinh-xach-tay-dell-latude-3540-l3540a-den",
+                "brand": {
+                    "code": "DELL",
+                    "name": "Dell"
+                },
+                "status": {
+                    "publish": false,
+                    "sale": "ngung_kinh_doanh"
+                },
+                "objective": {
+                    "code": "sale",
+                    "name": "Hàng để bán"
+                },
+                "productType": {
+                    "code": "product",
+                    "name": "Sản phẩm có thể lưu trữ"
+                },
+                "images": [],
+                "price": {
+                    "supplierSalePrice": null,
+                    "sellPrice": null
+                },
+                "productLine": {
+                    "code": "NGH01",
+                    "name": "Laptop / Apple"
+                },
+                "stocks": [],
+                "totalAvailable": null,
+                "isBundle": null,
+                "bundleProducts": null,
+                "parentBundles": null,
+                "totalAvailableByStocks": []
+            },
+            {
+                "displayName": "",
+                "color": {
+                    "code": "077",
+                    "name": "Xanh đen"
+                },
+                "tags": [],
+                "promotionPrices": [],
+                "promotions": [],
+                "flashSales": [],
+                "attributeSet": {
+                    "id": 1,
+                    "name": "Laptop"
+                },
+                "categories": [
+                    {
+                        "id": 93,
+                        "code": "01-N001-02-02-01",
+                        "name": "Laptop Asus Win 1.1",
+                        "level": 4,
+                        "parentId": 90
+                    }
+                ],
+                "magentoId": 19006,
+                "seoInfo": {
+                    "metaKeyword": null,
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "shortDescription": "- CPU: <br>- Màn hình: , không cảm ứng <br>- RAM: Không có <br>- Đồ họa: <br>- Lưu trữ: <br>- Hệ điều hành: <br>- Pin:",
+                    "description": null
+                },
+                "rating": {
+                    "averagePoint": null,
+                    "voteCount": 0
+                },
+                "allActiveFlashSales": [],
+                "sku": "1400691",
+                "name": "Laptop/ Máy tính xách tay Asus UX302LA-C4004H (I5-4200U) (Xanh đen)",
+                "url": "laptop-may-tinh-xach-tay-asus-ux302la-c4004h-i5-4200u-xanh-den",
+                "brand": {
+                    "code": "ASUS",
+                    "name": "ASUS"
+                },
+                "status": {
+                    "publish": true,
+                    "sale": "ngung_kinh_doanh"
+                },
+                "objective": {
+                    "code": "sale",
+                    "name": "Hàng để bán"
+                },
+                "productType": {
+                    "code": "product",
+                    "name": "Sản phẩm có thể lưu trữ"
+                },
+                "images": [
+                    {
+                        "url": "https://img1.phongvu.vn/media/catalog/product/f/t/ftoltzgij3z9duuh_500.jpg",
+                        "priority": 1
+                    },
+                    {
+                        "url": "https://img1.phongvu.vn/media/catalog/product/x/q/xqrf2b0u1iutyvyl_500.jpg",
+                        "priority": 2
+                    },
+                    {
+                        "url": "https://img1.phongvu.vn/media/catalog/product/r/m/rmo8ldufiryczapw_500.jpg",
+                        "priority": 3
+                    },
+                    {
+                        "url": "https://img1.phongvu.vn/media/catalog/product/o/k/okypuviqqsykkhjn_500.jpg",
+                        "priority": 4
+                    },
+                    {
+                        "url": "https://img1.phongvu.vn/media/catalog/product/w/k/wkkkafageotauirj_500.jpg",
+                        "priority": 5
+                    },
+                    {
+                        "url": "https://img1.phongvu.vn/media/catalog/product/z/e/zenbook-infinity-ux301-6.jpg",
+                        "priority": 6
+                    }
+                ],
+                "price": {
+                    "supplierSalePrice": null,
+                    "sellPrice": null
+                },
+                "productLine": {
+                    "code": "NGH01",
+                    "name": "Laptop / Apple"
+                },
+                "stocks": [],
+                "totalAvailable": null,
+                "isBundle": null,
+                "bundleProducts": null,
+                "parentBundles": null,
+                "totalAvailableByStocks": []
+            },
+            {
+                "displayName": "",
+                "color": {
+                    "code": "007",
+                    "name": "Đen"
+                },
+                "tags": [],
+                "promotionPrices": [],
+                "promotions": [],
+                "flashSales": [],
+                "attributeSet": {
+                    "id": 1,
+                    "name": "Laptop"
+                },
+                "categories": [
+                    {
+                        "id": 91,
+                        "code": "01-N001-02-01-01",
+                        "name": "Laptop Asus Option 1.1",
+                        "level": 4,
+                        "parentId": 89
+                    }
+                ],
+                "magentoId": 19007,
+                "seoInfo": {
+                    "metaKeyword": null,
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "shortDescription": "- CPU: <br>- Màn hình: <br>- Đồ họa: <br>- Lưu trữ: <br>- Hệ điều hành: <br>- Pin:",
+                    "description": null
+                },
+                "rating": {
+                    "averagePoint": null,
+                    "voteCount": 0
+                },
+                "allActiveFlashSales": [],
+                "sku": "1400693",
+                "name": "Laptop/ Máy tính xách tay Asus F451CA-VX124D (I3-3217U) (Đen)",
+                "url": "laptop-may-tinh-xach-tay-asus-f451ca-vx124d-i3-3217u-den",
+                "brand": {
+                    "code": "ASUS",
+                    "name": "ASUS"
+                },
+                "status": {
+                    "publish": false,
+                    "sale": "ngung_kinh_doanh"
+                },
+                "objective": {
+                    "code": "sale",
+                    "name": "Hàng để bán"
+                },
+                "productType": {
+                    "code": "product",
+                    "name": "Sản phẩm có thể lưu trữ"
+                },
+                "images": [],
+                "price": {
+                    "supplierSalePrice": null,
+                    "sellPrice": null
+                },
+                "productLine": {
+                    "code": "NGH01",
+                    "name": "Laptop / Apple"
+                },
+                "stocks": [],
+                "totalAvailable": null,
+                "isBundle": null,
+                "bundleProducts": null,
+                "parentBundles": null,
+                "totalAvailableByStocks": []
+            },
+            {
+                "displayName": "",
+                "color": {
+                    "code": "007",
+                    "name": "Đen"
+                },
+                "tags": [],
+                "promotionPrices": [],
+                "promotions": [],
+                "flashSales": [],
+                "attributeSet": {
+                    "id": 1,
+                    "name": "Laptop"
+                },
+                "categories": [
+                    {
+                        "id": 103,
+                        "code": "01-N001-04-01-01",
+                        "name": "Laptop Lenovo Option 1.1",
+                        "level": 4,
+                        "parentId": 101
+                    }
+                ],
+                "magentoId": 19072,
+                "seoInfo": {
+                    "metaKeyword": null,
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "shortDescription": "- CPU: <br>- Màn hình: <br>- Đồ họa: <br>- Lưu trữ: <br>- Hệ điều hành: <br>- Pin:",
+                    "description": null
+                },
+                "rating": {
+                    "averagePoint": null,
+                    "voteCount": 0
+                },
+                "allActiveFlashSales": [],
+                "sku": "1400867",
+                "name": "Laptop/ Máy tính xách tay Lenovo Ideapad S210-59402712 (3217U) (Đen)",
+                "url": "laptop-may-tinh-xach-tay-lenovo-ideapad-s210-59402712-3217u-den",
+                "brand": {
+                    "code": "LENOVO",
+                    "name": "Lenovo"
+                },
+                "status": {
+                    "publish": false,
+                    "sale": "ngung_kinh_doanh"
+                },
+                "objective": {
+                    "code": "sale",
+                    "name": "Hàng để bán"
+                },
+                "productType": {
+                    "code": "product",
+                    "name": "Sản phẩm có thể lưu trữ"
+                },
+                "images": [],
+                "price": {
+                    "supplierSalePrice": null,
+                    "sellPrice": null
+                },
+                "productLine": {
+                    "code": "NGH01",
+                    "name": "Laptop / Apple"
+                },
+                "stocks": [],
+                "totalAvailable": null,
+                "isBundle": null,
+                "bundleProducts": null,
+                "parentBundles": null,
+                "totalAvailableByStocks": []
+            },
+            {
+                "displayName": "",
+                "color": {
+                    "code": "007",
+                    "name": "Đen"
+                },
+                "tags": [],
+                "promotionPrices": [],
+                "promotions": [],
+                "flashSales": [],
+                "attributeSet": {
+                    "id": 1,
+                    "name": "Laptop"
+                },
+                "categories": [
+                    {
+                        "id": 93,
+                        "code": "01-N001-02-02-01",
+                        "name": "Laptop Asus Win 1.1",
+                        "level": 4,
+                        "parentId": 90
+                    }
+                ],
+                "magentoId": 19168,
+                "seoInfo": {
+                    "metaKeyword": null,
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "shortDescription": "- CPU: <br>- Màn hình: , không cảm ứng <br>- RAM: Không có <br>- Đồ họa: <br>- Lưu trữ: <br>- Hệ điều hành: <br>- Pin:",
+                    "description": null
+                },
+                "rating": {
+                    "averagePoint": null,
+                    "voteCount": 0
+                },
+                "allActiveFlashSales": [],
+                "sku": "1401183",
+                "name": "Laptop/ Máy tính xách tay Asus N550JV-CN329H (I7-4700HQ) (Đen)",
+                "url": "laptop-may-tinh-xach-tay-asus-n550jv-cn329h-i7-4700hq-den",
+                "brand": {
+                    "code": "ASUS",
+                    "name": "ASUS"
+                },
+                "status": {
+                    "publish": true,
+                    "sale": "ngung_kinh_doanh"
+                },
+                "objective": {
+                    "code": "sale",
+                    "name": "Hàng để bán"
+                },
+                "productType": {
+                    "code": "product",
+                    "name": "Sản phẩm có thể lưu trữ"
+                },
+                "images": [
+                    {
+                        "url": "https://img1.phongvu.vn/media/catalog/product/l/a/laptop_asus_n550jv-cn329h.png",
+                        "priority": 1
+                    },
+                    {
+                        "url": "https://img1.phongvu.vn/media/catalog/product/a/s/asus_n550jv-cn329h.png",
+                        "priority": 2
+                    },
+                    {
+                        "url": "https://img1.phongvu.vn/media/catalog/product/a/s/asus_n550jv-cn329h_-1.png",
+                        "priority": 3
+                    },
+                    {
+                        "url": "https://img1.phongvu.vn/media/catalog/product/a/s/asus_n550jv-cn329h-2.png",
+                        "priority": 4
+                    }
+                ],
+                "price": {
+                    "supplierSalePrice": null,
+                    "sellPrice": null
+                },
+                "productLine": {
+                    "code": "NGH01",
+                    "name": "Laptop / Apple"
+                },
+                "stocks": [],
+                "totalAvailable": null,
+                "isBundle": null,
+                "bundleProducts": null,
+                "parentBundles": null,
+                "totalAvailableByStocks": []
+            },
+            {
+                "displayName": "",
+                "color": {
+                    "code": "010",
+                    "name": "Đen xám"
+                },
+                "tags": [],
+                "promotionPrices": [],
+                "promotions": [],
+                "flashSales": [],
+                "attributeSet": {
+                    "id": 1,
+                    "name": "Laptop"
+                },
+                "categories": [
+                    {
+                        "id": 91,
+                        "code": "01-N001-02-01-01",
+                        "name": "Laptop Asus Option 1.1",
+                        "level": 4,
+                        "parentId": 89
+                    }
+                ],
+                "magentoId": 19262,
+                "seoInfo": {
+                    "metaKeyword": null,
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "shortDescription": "- CPU: <br>- Màn hình: <br>- Đồ họa: <br>- Lưu trữ: <br>- Hệ điều hành: <br>- Pin:",
+                    "description": null
+                },
+                "rating": {
+                    "averagePoint": null,
+                    "voteCount": 0
+                },
+                "allActiveFlashSales": [],
+                "sku": "1401641",
+                "name": "Laptop/ Máy tính xách tay Asus PU401LA-WO111D (I3-4010U) (Đen xám)",
+                "url": "laptop-may-tinh-xach-tay-asus-pu401la-wo111d-i3-4010u-den-xam",
+                "brand": {
+                    "code": "ASUS",
+                    "name": "ASUS"
+                },
+                "status": {
+                    "publish": false,
+                    "sale": "ngung_kinh_doanh"
+                },
+                "objective": {
+                    "code": "sale",
+                    "name": "Hàng để bán"
+                },
+                "productType": {
+                    "code": "product",
+                    "name": "Sản phẩm có thể lưu trữ"
+                },
+                "images": [],
+                "price": {
+                    "supplierSalePrice": null,
+                    "sellPrice": null
+                },
+                "productLine": {
+                    "code": "NGH01",
+                    "name": "Laptop / Apple"
+                },
+                "stocks": [],
+                "totalAvailable": null,
+                "isBundle": null,
+                "bundleProducts": null,
+                "parentBundles": null,
+                "totalAvailableByStocks": []
+            },
+            {
+                "displayName": "",
+                "color": {
+                    "code": "012",
+                    "name": "Bạc"
+                },
+                "tags": [],
+                "promotionPrices": [],
+                "promotions": [],
+                "flashSales": [],
+                "attributeSet": {
+                    "id": 1,
+                    "name": "Laptop"
+                },
+                "categories": [
+                    {
+                        "id": 91,
+                        "code": "01-N001-02-01-01",
+                        "name": "Laptop Asus Option 1.1",
+                        "level": 4,
+                        "parentId": 89
+                    }
+                ],
+                "magentoId": 19350,
+                "seoInfo": {
+                    "metaKeyword": null,
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "shortDescription": "- CPU: <br>- Màn hình: , không cảm ứng <br>- RAM: Không có <br>- Đồ họa: <br>- Lưu trữ: <br>- Hệ điều hành: <br>- Pin:",
+                    "description": null
+                },
+                "rating": {
+                    "averagePoint": null,
+                    "voteCount": 0
+                },
+                "allActiveFlashSales": [],
+                "sku": "1401875",
+                "name": "Laptop/ Máy tính xách tay Asus K551LN-XX235D (I5-4200U) (Bạc)",
+                "url": "laptop-may-tinh-xach-tay-asus-k551ln-xx235d-i5-4200u-bac",
+                "brand": {
+                    "code": "ASUS",
+                    "name": "ASUS"
+                },
+                "status": {
+                    "publish": true,
+                    "sale": "ngung_kinh_doanh"
+                },
+                "objective": {
+                    "code": "sale",
+                    "name": "Hàng để bán"
+                },
+                "productType": {
+                    "code": "product",
+                    "name": "Sản phẩm có thể lưu trữ"
+                },
+                "images": [
+                    {
+                        "url": "https://img1.phongvu.vn/media/catalog/product/l/a/laptop-asus_k551ln-xx235d-i5-4200u-3.jpg",
+                        "priority": 1
+                    },
+                    {
+                        "url": "https://img1.phongvu.vn/media/catalog/product/l/a/laptop-asus_k551ln-xx235d-i5-4200u-1.jpg",
+                        "priority": 2
+                    },
+                    {
+                        "url": "https://img1.phongvu.vn/media/catalog/product/l/a/laptop-asus_k551ln-xx235d-i5-4200u-2.jpg",
+                        "priority": 3
+                    }
+                ],
+                "price": {
+                    "supplierSalePrice": null,
+                    "sellPrice": null
+                },
+                "productLine": {
+                    "code": "NGH01",
+                    "name": "Laptop / Apple"
+                },
+                "stocks": [],
+                "totalAvailable": null,
+                "isBundle": null,
+                "bundleProducts": null,
+                "parentBundles": null,
+                "totalAvailableByStocks": []
+            }
+        ],
+        "keywords": [],
+        "filters": []
+    },
+    "extra": {
+        "totalItems": 29,
+        "page": 2,
+        "pageSize": 10
+    }
+}

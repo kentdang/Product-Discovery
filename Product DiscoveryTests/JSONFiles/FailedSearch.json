@@ -1,0 +1,4 @@
+{
+    "message": "400 Bad Request: Input payload validation failed. terminal of channel Missing required parameter in the query string",
+    "code": "BAD_REQUEST"
+}

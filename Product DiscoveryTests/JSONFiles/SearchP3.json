@@ -1,0 +1,653 @@
+{
+    "code": "SUCCESS",
+    "result": {
+        "products": [
+            {
+                "displayName": "",
+                "color": {
+                    "code": "007",
+                    "name": "Đen"
+                },
+                "tags": [],
+                "promotionPrices": [],
+                "promotions": [],
+                "flashSales": [],
+                "attributeSet": {
+                    "id": 1,
+                    "name": "Laptop"
+                },
+                "categories": [
+                    {
+                        "id": 97,
+                        "code": "01-N001-03-01-01",
+                        "name": "Laptop Dell Option 1.1",
+                        "level": 4,
+                        "parentId": 95
+                    }
+                ],
+                "magentoId": 19368,
+                "seoInfo": {
+                    "metaKeyword": null,
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "shortDescription": "- CPU: <br>- Màn hình: <br>- Đồ họa: <br>- Lưu trữ: <br>- Hệ điều hành: <br>- Pin:",
+                    "description": null
+                },
+                "rating": {
+                    "averagePoint": null,
+                    "voteCount": 0
+                },
+                "allActiveFlashSales": [],
+                "sku": "1401912",
+                "name": "Laptop/ Máy tính xách tay Dell 3542-N3542A (Đen)",
+                "url": "laptop-may-tinh-xach-tay-dell-3542-n3542a-den",
+                "brand": {
+                    "code": "DELL",
+                    "name": "Dell"
+                },
+                "status": {
+                    "publish": false,
+                    "sale": "ngung_kinh_doanh"
+                },
+                "objective": {
+                    "code": "sale",
+                    "name": "Hàng để bán"
+                },
+                "productType": {
+                    "code": "product",
+                    "name": "Sản phẩm có thể lưu trữ"
+                },
+                "images": [],
+                "price": {
+                    "supplierSalePrice": null,
+                    "sellPrice": null
+                },
+                "productLine": {
+                    "code": "NGH01",
+                    "name": "Laptop / Apple"
+                },
+                "stocks": [],
+                "totalAvailable": null,
+                "isBundle": null,
+                "bundleProducts": null,
+                "parentBundles": null,
+                "totalAvailableByStocks": []
+            },
+            {
+                "displayName": "",
+                "color": {
+                    "code": "012",
+                    "name": "Bạc"
+                },
+                "tags": [],
+                "promotionPrices": [],
+                "promotions": [],
+                "flashSales": [],
+                "attributeSet": {
+                    "id": 1,
+                    "name": "Laptop"
+                },
+                "categories": [
+                    {
+                        "id": 97,
+                        "code": "01-N001-03-01-01",
+                        "name": "Laptop Dell Option 1.1",
+                        "level": 4,
+                        "parentId": 95
+                    }
+                ],
+                "magentoId": 19369,
+                "seoInfo": {
+                    "metaKeyword": null,
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "shortDescription": "- CPU: <br>- Màn hình: <br>- Đồ họa: <br>- Lưu trữ: <br>- Hệ điều hành: <br>- Pin:",
+                    "description": null
+                },
+                "rating": {
+                    "averagePoint": null,
+                    "voteCount": 0
+                },
+                "allActiveFlashSales": [],
+                "sku": "1401913",
+                "name": "Laptop/ Máy tính xách tay Dell 5547-N5547A (Bạc)",
+                "url": "laptop-may-tinh-xach-tay-dell-5547-n5547a-bac",
+                "brand": {
+                    "code": "DELL",
+                    "name": "Dell"
+                },
+                "status": {
+                    "publish": false,
+                    "sale": "ngung_kinh_doanh"
+                },
+                "objective": {
+                    "code": "sale",
+                    "name": "Hàng để bán"
+                },
+                "productType": {
+                    "code": "product",
+                    "name": "Sản phẩm có thể lưu trữ"
+                },
+                "images": [],
+                "price": {
+                    "supplierSalePrice": null,
+                    "sellPrice": null
+                },
+                "productLine": {
+                    "code": "NGH01",
+                    "name": "Laptop / Apple"
+                },
+                "stocks": [],
+                "totalAvailable": null,
+                "isBundle": null,
+                "bundleProducts": null,
+                "parentBundles": null,
+                "totalAvailableByStocks": []
+            },
+            {
+                "displayName": "",
+                "color": {
+                    "code": "012",
+                    "name": "Bạc"
+                },
+                "tags": [],
+                "promotionPrices": [],
+                "promotions": [],
+                "flashSales": [],
+                "attributeSet": {
+                    "id": 1,
+                    "name": "Laptop"
+                },
+                "categories": [
+                    {
+                        "id": 97,
+                        "code": "01-N001-03-01-01",
+                        "name": "Laptop Dell Option 1.1",
+                        "level": 4,
+                        "parentId": 95
+                    }
+                ],
+                "magentoId": 19402,
+                "seoInfo": {
+                    "metaKeyword": null,
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "shortDescription": "- CPU: <br>- Màn hình: <br>- Đồ họa: <br>- Lưu trữ: <br>- Hệ điều hành: <br>- Pin:",
+                    "description": null
+                },
+                "rating": {
+                    "averagePoint": null,
+                    "voteCount": 0
+                },
+                "allActiveFlashSales": [],
+                "sku": "1401966",
+                "name": "Laptop/ Máy tính xách tay Dell 5447-XYC9N1 (Bạc)",
+                "url": "laptop-may-tinh-xach-tay-dell-5447-xyc9n1-bac",
+                "brand": {
+                    "code": "DELL",
+                    "name": "Dell"
+                },
+                "status": {
+                    "publish": false,
+                    "sale": "ngung_kinh_doanh"
+                },
+                "objective": {
+                    "code": "sale",
+                    "name": "Hàng để bán"
+                },
+                "productType": {
+                    "code": "product",
+                    "name": "Sản phẩm có thể lưu trữ"
+                },
+                "images": [],
+                "price": {
+                    "supplierSalePrice": null,
+                    "sellPrice": null
+                },
+                "productLine": {
+                    "code": "NGH01",
+                    "name": "Laptop / Apple"
+                },
+                "stocks": [],
+                "totalAvailable": null,
+                "isBundle": null,
+                "bundleProducts": null,
+                "parentBundles": null,
+                "totalAvailableByStocks": []
+            },
+            {
+                "displayName": "",
+                "color": {
+                    "code": "012",
+                    "name": "Bạc"
+                },
+                "tags": [],
+                "promotionPrices": [],
+                "promotions": [],
+                "flashSales": [],
+                "attributeSet": {
+                    "id": 1,
+                    "name": "Laptop"
+                },
+                "categories": [
+                    {
+                        "id": 97,
+                        "code": "01-N001-03-01-01",
+                        "name": "Laptop Dell Option 1.1",
+                        "level": 4,
+                        "parentId": 95
+                    }
+                ],
+                "magentoId": 19403,
+                "seoInfo": {
+                    "metaKeyword": null,
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "shortDescription": "- CPU: <br>- Màn hình: <br>- Đồ họa: <br>- Lưu trữ: <br>- Hệ điều hành: <br>- Pin:",
+                    "description": null
+                },
+                "rating": {
+                    "averagePoint": null,
+                    "voteCount": 0
+                },
+                "allActiveFlashSales": [],
+                "sku": "1401967",
+                "name": "Laptop/ Máy tính xách tay Dell 5547-1DVM72 (Bạc)",
+                "url": "laptop-may-tinh-xach-tay-dell-5547-1dvm72-bac",
+                "brand": {
+                    "code": "DELL",
+                    "name": "Dell"
+                },
+                "status": {
+                    "publish": false,
+                    "sale": "ngung_kinh_doanh"
+                },
+                "objective": {
+                    "code": "sale",
+                    "name": "Hàng để bán"
+                },
+                "productType": {
+                    "code": "product",
+                    "name": "Sản phẩm có thể lưu trữ"
+                },
+                "images": [],
+                "price": {
+                    "supplierSalePrice": null,
+                    "sellPrice": null
+                },
+                "productLine": {
+                    "code": "NGH01",
+                    "name": "Laptop / Apple"
+                },
+                "stocks": [],
+                "totalAvailable": null,
+                "isBundle": null,
+                "bundleProducts": null,
+                "parentBundles": null,
+                "totalAvailableByStocks": []
+            },
+            {
+                "displayName": "",
+                "color": {
+                    "code": "007",
+                    "name": "Đen"
+                },
+                "tags": [],
+                "promotionPrices": [],
+                "promotions": [],
+                "flashSales": [],
+                "attributeSet": {
+                    "id": 1,
+                    "name": "Laptop"
+                },
+                "categories": [
+                    {
+                        "id": 97,
+                        "code": "01-N001-03-01-01",
+                        "name": "Laptop Dell Option 1.1",
+                        "level": 4,
+                        "parentId": 95
+                    }
+                ],
+                "magentoId": 19404,
+                "seoInfo": {
+                    "metaKeyword": null,
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "shortDescription": "- CPU: <br>- Màn hình: <br>- Đồ họa: <br>- Lưu trữ: <br>- Hệ điều hành: <br>- Pin:",
+                    "description": null
+                },
+                "rating": {
+                    "averagePoint": null,
+                    "voteCount": 0
+                },
+                "allActiveFlashSales": [],
+                "sku": "1401968",
+                "name": "Laptop/ Máy tính xách tay Dell 3542-DND6X2 (Đen)",
+                "url": "laptop-may-tinh-xach-tay-dell-3542-dnd6x2-den",
+                "brand": {
+                    "code": "DELL",
+                    "name": "Dell"
+                },
+                "status": {
+                    "publish": false,
+                    "sale": "ngung_kinh_doanh"
+                },
+                "objective": {
+                    "code": "sale",
+                    "name": "Hàng để bán"
+                },
+                "productType": {
+                    "code": "product",
+                    "name": "Sản phẩm có thể lưu trữ"
+                },
+                "images": [],
+                "price": {
+                    "supplierSalePrice": null,
+                    "sellPrice": null
+                },
+                "productLine": {
+                    "code": "NGH01",
+                    "name": "Laptop / Apple"
+                },
+                "stocks": [],
+                "totalAvailable": null,
+                "isBundle": null,
+                "bundleProducts": null,
+                "parentBundles": null,
+                "totalAvailableByStocks": []
+            },
+            {
+                "displayName": "",
+                "color": {
+                    "code": "007",
+                    "name": "Đen"
+                },
+                "tags": [],
+                "promotionPrices": [],
+                "promotions": [],
+                "flashSales": [],
+                "attributeSet": {
+                    "id": 1,
+                    "name": "Laptop"
+                },
+                "categories": [
+                    {
+                        "id": 97,
+                        "code": "01-N001-03-01-01",
+                        "name": "Laptop Dell Option 1.1",
+                        "level": 4,
+                        "parentId": 95
+                    }
+                ],
+                "magentoId": 19405,
+                "seoInfo": {
+                    "metaKeyword": null,
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "shortDescription": "- CPU: <br>- Màn hình: <br>- Đồ họa: <br>- Lưu trữ: <br>- Hệ điều hành: <br>- Pin:",
+                    "description": null
+                },
+                "rating": {
+                    "averagePoint": null,
+                    "voteCount": 0
+                },
+                "allActiveFlashSales": [],
+                "sku": "1401969",
+                "name": "Laptop/ Máy tính xách tay Dell 3442-062GW1 (Đen)",
+                "url": "laptop-may-tinh-xach-tay-dell-3442-062gw1-den",
+                "brand": {
+                    "code": "DELL",
+                    "name": "Dell"
+                },
+                "status": {
+                    "publish": false,
+                    "sale": "ngung_kinh_doanh"
+                },
+                "objective": {
+                    "code": "sale",
+                    "name": "Hàng để bán"
+                },
+                "productType": {
+                    "code": "product",
+                    "name": "Sản phẩm có thể lưu trữ"
+                },
+                "images": [],
+                "price": {
+                    "supplierSalePrice": null,
+                    "sellPrice": null
+                },
+                "productLine": {
+                    "code": "NGH01",
+                    "name": "Laptop / Apple"
+                },
+                "stocks": [],
+                "totalAvailable": null,
+                "isBundle": null,
+                "bundleProducts": null,
+                "parentBundles": null,
+                "totalAvailableByStocks": []
+            },
+            {
+                "displayName": "",
+                "color": {
+                    "code": "007",
+                    "name": "Đen"
+                },
+                "tags": [],
+                "promotionPrices": [],
+                "promotions": [],
+                "flashSales": [],
+                "attributeSet": {
+                    "id": 1,
+                    "name": "Laptop"
+                },
+                "categories": [
+                    {
+                        "id": 97,
+                        "code": "01-N001-03-01-01",
+                        "name": "Laptop Dell Option 1.1",
+                        "level": 4,
+                        "parentId": 95
+                    }
+                ],
+                "magentoId": 19406,
+                "seoInfo": {
+                    "metaKeyword": null,
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "shortDescription": "- CPU: <br>- Màn hình: <br>- Đồ họa: <br>- Lưu trữ: <br>- Hệ điều hành: <br>- Pin:",
+                    "description": null
+                },
+                "rating": {
+                    "averagePoint": null,
+                    "voteCount": 0
+                },
+                "allActiveFlashSales": [],
+                "sku": "1401970",
+                "name": "Laptop/ Máy tính xách tay Dell 3542-DND6X5 (Đen)",
+                "url": "laptop-may-tinh-xach-tay-dell-3542-dnd6x5-den",
+                "brand": {
+                    "code": "DELL",
+                    "name": "Dell"
+                },
+                "status": {
+                    "publish": false,
+                    "sale": "ngung_kinh_doanh"
+                },
+                "objective": {
+                    "code": "sale",
+                    "name": "Hàng để bán"
+                },
+                "productType": {
+                    "code": "product",
+                    "name": "Sản phẩm có thể lưu trữ"
+                },
+                "images": [],
+                "price": {
+                    "supplierSalePrice": null,
+                    "sellPrice": null
+                },
+                "productLine": {
+                    "code": "NGH01",
+                    "name": "Laptop / Apple"
+                },
+                "stocks": [],
+                "totalAvailable": null,
+                "isBundle": null,
+                "bundleProducts": null,
+                "parentBundles": null,
+                "totalAvailableByStocks": []
+            },
+            {
+                "displayName": "",
+                "color": {
+                    "code": "007",
+                    "name": "Đen"
+                },
+                "tags": [],
+                "promotionPrices": [],
+                "promotions": [],
+                "flashSales": [],
+                "attributeSet": {
+                    "id": 1,
+                    "name": "Laptop"
+                },
+                "categories": [
+                    {
+                        "id": 97,
+                        "code": "01-N001-03-01-01",
+                        "name": "Laptop Dell Option 1.1",
+                        "level": 4,
+                        "parentId": 95
+                    }
+                ],
+                "magentoId": 19407,
+                "seoInfo": {
+                    "metaKeyword": null,
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "shortDescription": "- CPU: <br>- Màn hình: <br>- Đồ họa: <br>- Lưu trữ: <br>- Hệ điều hành: <br>- Pin:",
+                    "description": null
+                },
+                "rating": {
+                    "averagePoint": null,
+                    "voteCount": 0
+                },
+                "allActiveFlashSales": [],
+                "sku": "1401971",
+                "name": "Laptop/ Máy tính xách tay Dell 3542-DND6X3 (Đen)",
+                "url": "laptop-may-tinh-xach-tay-dell-3542-dnd6x3-den",
+                "brand": {
+                    "code": "DELL",
+                    "name": "Dell"
+                },
+                "status": {
+                    "publish": false,
+                    "sale": "ngung_kinh_doanh"
+                },
+                "objective": {
+                    "code": "sale",
+                    "name": "Hàng để bán"
+                },
+                "productType": {
+                    "code": "product",
+                    "name": "Sản phẩm có thể lưu trữ"
+                },
+                "images": [],
+                "price": {
+                    "supplierSalePrice": null,
+                    "sellPrice": null
+                },
+                "productLine": {
+                    "code": "NGH01",
+                    "name": "Laptop / Apple"
+                },
+                "stocks": [],
+                "totalAvailable": null,
+                "isBundle": null,
+                "bundleProducts": null,
+                "parentBundles": null,
+                "totalAvailableByStocks": []
+            },
+            {
+                "displayName": "",
+                "color": {
+                    "code": "012",
+                    "name": "Bạc"
+                },
+                "tags": [],
+                "promotionPrices": [],
+                "promotions": [],
+                "flashSales": [],
+                "attributeSet": {
+                    "id": 1,
+                    "name": "Laptop"
+                },
+                "categories": [
+                    {
+                        "id": 97,
+                        "code": "01-N001-03-01-01",
+                        "name": "Laptop Dell Option 1.1",
+                        "level": 4,
+                        "parentId": 95
+                    }
+                ],
+                "magentoId": 19410,
+                "seoInfo": {
+                    "metaKeyword": null,
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "shortDescription": "- CPU: <br>- Màn hình: <br>- Đồ họa: <br>- Lưu trữ: <br>- Hệ điều hành: <br>- Pin:",
+                    "description": null
+                },
+                "rating": {
+                    "averagePoint": null,
+                    "voteCount": 0
+                },
+                "allActiveFlashSales": [],
+                "sku": "1401986",
+                "name": "Laptop/ Máy tính xách tay Dell Inspiron 15R 5547-M5I52609 (Bạc)",
+                "url": "laptop-may-tinh-xach-tay-dell-inspiron-15r-5547-m5i52609-bac",
+                "brand": {
+                    "code": "DELL",
+                    "name": "Dell"
+                },
+                "status": {
+                    "publish": false,
+                    "sale": "ngung_kinh_doanh"
+                },
+                "objective": {
+                    "code": "sale",
+                    "name": "Hàng để bán"
+                },
+                "productType": {
+                    "code": "product",
+                    "name": "Sản phẩm có thể lưu trữ"
+                },
+                "images": [],
+                "price": {
+                    "supplierSalePrice": null,
+                    "sellPrice": null
+                },
+                "productLine": {
+                    "code": "NGH01",
+                    "name": "Laptop / Apple"
+                },
+                "stocks": [],
+                "totalAvailable": null,
+                "isBundle": null,
+                "bundleProducts": null,
+                "parentBundles": null,
+                "totalAvailableByStocks": []
+            }
+        ],
+        "keywords": [],
+        "filters": []
+    },
+    "extra": {
+        "totalItems": 29,
+        "page": 3,
+        "pageSize": 10
+    }
+}

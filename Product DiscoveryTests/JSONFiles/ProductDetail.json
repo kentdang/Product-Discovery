@@ -1,0 +1,644 @@
+{
+    "code": "SUCCESS",
+    "result": {
+        "product": {
+            "attributes": [{
+                "code": "laptop_series",
+                "values": [{
+                    "optionId": 83,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_ten",
+                "values": [{
+                    "optionId": null,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_partnumber",
+                "values": [{
+                    "optionId": null,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_mausac",
+                "values": [{
+                    "optionId": 5966,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_khoiluong",
+                "values": [{
+                    "optionId": 7938,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_kichthuoc",
+                "values": [{
+                    "optionId": null,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_seriescpu",
+                "values": [{
+                    "optionId": 5971,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_mucdichsudung",
+                "values": [{
+                    "optionId": 7920,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_kichthuocmanhinh",
+                "values": [{
+                    "optionId": 5978,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_dophangiaimanhinh",
+                "values": [{
+                    "optionId": 5979,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_congnghetamnenmanhinh",
+                "values": [{
+                    "optionId": 5950,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_tansoquetmanhinh",
+                "values": [{
+                    "optionId": 5951,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_manhinhcamung",
+                "values": [{
+                    "optionId": 731,
+                    "value": "kh\u00f4ng ca\u0309m \u01b0\u0301ng"
+                }]
+            }, {
+                "code": "laptop_bematmanhinh",
+                "values": [{
+                    "optionId": 5959,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_thehecpu",
+                "values": [{
+                    "optionId": 5970,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_tencpu",
+                "values": [{
+                    "optionId": 6804,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_tocdoxulycpu",
+                "values": [{
+                    "optionId": 5972,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_sonhanluongxulycpu",
+                "values": [{
+                    "optionId": 5973,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_bonhocachecpu",
+                "values": [{
+                    "optionId": 5974,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_dungluongbonho",
+                "values": [{
+                    "optionId": 5975,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_thehebonho",
+                "values": [{
+                    "optionId": 5977,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_busram",
+                "values": [{
+                    "optionId": 5963,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_sokhecamram",
+                "values": [{
+                    "optionId": 5958,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_dungluongbonhotoida",
+                "values": [{
+                    "optionId": 5962,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_chipdohoatichhop",
+                "values": [{
+                    "optionId": 5964,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_chipdohoaroi",
+                "values": [{
+                    "optionId": 764,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_dungluongbonhodohoa",
+                "values": [{
+                    "optionId": 5952,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_thehebonhodohoa",
+                "values": [{
+                    "optionId": 5953,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_socongusb20",
+                "values": [{
+                    "optionId": 823,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_socongusb30",
+                "values": [{
+                    "optionId": 834,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_socongusb31",
+                "values": [{
+                    "optionId": 865,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_socongusbc",
+                "values": [{
+                    "optionId": 908,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_socongthunderbolt",
+                "values": [{
+                    "optionId": 920,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_socongketnoiamthanh",
+                "values": [{
+                    "optionId": 977,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_daudocthenhosd",
+                "values": [{
+                    "optionId": 987,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_ketnoilan",
+                "values": [{
+                    "optionId": 993,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_dungluongssd",
+                "values": [{
+                    "optionId": 5955,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_dungluonghdd",
+                "values": [{
+                    "optionId": 5960,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_sokhecamm2",
+                "values": [{
+                    "optionId": 1005,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_sokheocungsata",
+                "values": [{
+                    "optionId": 1008,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_phanloaim2",
+                "values": [{
+                    "optionId": 5917,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_soconghdmi",
+                "values": [{
+                    "optionId": 941,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_socongdisplayport",
+                "values": [{
+                    "optionId": 962,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_socongvga",
+                "values": [{
+                    "optionId": 973,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_ketnoibluetooth",
+                "values": [{
+                    "optionId": 5981,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_ketnoiwlan",
+                "values": [{
+                    "optionId": 5982,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_dennenbanphim",
+                "values": [{
+                    "optionId": 1011,
+                    "value": "kh\u00f4ng \u0111e\u0300n"
+                }]
+            }, {
+                "code": "laptop_banphimco",
+                "values": [{
+                    "optionId": 1013,
+                    "value": "th\u01b0\u01a1\u0300ng"
+                }]
+            }, {
+                "code": "laptop_banphimso",
+                "values": [{
+                    "optionId": 1015,
+                    "value": "kh\u00f4ng phi\u0301m s\u00f4\u0301"
+                }]
+            }, {
+                "code": "laptop_hedieuhanh",
+                "values": [{
+                    "optionId": 5967,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_dungluongpin",
+                "values": [{
+                    "optionId": 5968,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_kieupin",
+                "values": [{
+                    "optionId": 5969,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_congsuatpin",
+                "values": [{
+                    "optionId": 7923,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_baomat",
+                "values": [{
+                    "optionId": 108,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_tinhnangvr",
+                "values": [{
+                    "optionId": 729,
+                    "value": "kh\u00f4ng h\u00f4\u0303 tr\u01a1\u0323"
+                }]
+            }, {
+                "code": "laptop_webcam",
+                "values": [{
+                    "optionId": 1018,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_odiaquang",
+                "values": [{
+                    "optionId": 1020,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_tinhnangdacbiet",
+                "values": [{
+                    "optionId": null,
+                    "value": "KHT"
+                }]
+            }, {
+                "code": "laptop_phukiendikem",
+                "values": [{
+                    "optionId": null,
+                    "value": "KHT"
+                }]
+            }],
+            "taxOut": 10.0,
+            "attributeGroups": [{
+                "id": null,
+                "name": "Th\u01b0\u01a1ng hi\u1ec7u",
+                "value": "Dell",
+                "parentId": 2847,
+                "priority": 0
+            }, {
+                "id": null,
+                "name": "B\u1ea3o h\u00e0nh",
+                "value": "12",
+                "parentId": 2847,
+                "priority": 1
+            }, {
+                "id": 2846,
+                "name": "Th\u00f4ng tin chung",
+                "value": "",
+                "parentId": 0,
+                "priority": 1
+            }, {
+                "id": null,
+                "name": "Series",
+                "value": "KHT",
+                "parentId": 2846,
+                "priority": 2
+            }, {
+                "id": null,
+                "name": "M\u00e0u",
+                "value": "KHT",
+                "parentId": 2846,
+                "priority": 5
+            }, {
+                "id": null,
+                "name": "Ph\u00f9 h\u1ee3p cho",
+                "value": "KHT",
+                "parentId": 2846,
+                "priority": 6
+            }, {
+                "id": null,
+                "name": "CPU",
+                "value": "KHT",
+                "parentId": 2846,
+                "priority": 7
+            }, {
+                "id": null,
+                "name": "Kh\u1ed1i l\u01b0\u1ee3ng",
+                "value": "KHT",
+                "parentId": 2846,
+                "priority": 9
+            }, {
+                "id": 2847,
+                "name": "C\u1ea5u h\u00ecnh chi ti\u1ebft",
+                "value": "",
+                "parentId": 0,
+                "priority": 10
+            }, {
+                "id": 2848,
+                "name": "Ma\u0300n hi\u0300nh",
+                "value": "",
+                "parentId": 2847,
+                "priority": 11
+            }, {
+                "id": null,
+                "name": "K\u00edch th\u01b0\u1edbc",
+                "value": "KHT",
+                "parentId": 2848,
+                "priority": 12
+            }, {
+                "id": null,
+                "name": "T\u1ea5m n\u1ec1n",
+                "value": "KHT",
+                "parentId": 2848,
+                "priority": 13
+            }, {
+                "id": null,
+                "name": "\u0110\u1ed9 ph\u00e2n gi\u1ea3i",
+                "value": "KHT",
+                "parentId": 2848,
+                "priority": 14
+            }, {
+                "id": null,
+                "name": "T\u00e2\u0300n s\u00f4\u0301 que\u0301t",
+                "value": "KHT",
+                "parentId": 2848,
+                "priority": 15
+            }, {
+                "id": null,
+                "name": "C\u1ea3m \u1ee9ng",
+                "value": "kh\u00f4ng ca\u0309m \u01b0\u0301ng",
+                "parentId": 2848,
+                "priority": 16
+            }, {
+                "id": null,
+                "name": "B\u00ea\u0300 m\u0103\u0323t",
+                "value": "KHT",
+                "parentId": 2848,
+                "priority": 17
+            }, {
+                "id": 2849,
+                "name": "CPU",
+                "value": "",
+                "parentId": 2847,
+                "priority": 18
+            }, {
+                "id": null,
+                "name": "Th\u1ebf h\u1ec7 CPU",
+                "value": "KHT",
+                "parentId": 2849,
+                "priority": 19
+            }, {
+                "id": null,
+                "name": "CPU",
+                "value": "KHT",
+                "parentId": 2849,
+                "priority": 20
+            }, {
+                "id": null,
+                "name": "T\u00f4\u0301c \u0111\u00f4\u0323 x\u01b0\u0309 ly\u0301",
+                "value": "KHT",
+                "parentId": 2849,
+                "priority": 21
+            }, {
+                "id": null,
+                "name": "Cache",
+                "value": "KHT",
+                "parentId": 2849,
+                "priority": 22
+            }, {
+                "id": null,
+                "name": "S\u00f4\u0301 nh\u00e2n/lu\u00f4\u0300ng x\u01b0\u0309 ly\u0301",
+                "value": "KHT",
+                "parentId": 2849,
+                "priority": 23
+            }, {
+                "id": 2850,
+                "name": "RAM",
+                "value": "",
+                "parentId": 2847,
+                "priority": 24
+            }, {
+                "id": null,
+                "name": "C\u1ea5u h\u00ecnh m\u1eb7c \u0111\u1ecbnh",
+                "value": "KHT",
+                "parentId": 2850,
+                "priority": 25
+            }, {
+                "id": null,
+                "name": "Th\u1ebf h\u1ec7",
+                "value": "KHT",
+                "parentId": 2850,
+                "priority": 26
+            }, {
+                "id": null,
+                "name": "Bus",
+                "value": "KHT",
+                "parentId": 2850,
+                "priority": 27
+            }, {
+                "id": null,
+                "name": "S\u1ed1 khe c\u1eafm",
+                "value": "KHT",
+                "parentId": 2850,
+                "priority": 28
+            }, {
+                "id": null,
+                "name": "H\u1ed7 tr\u1ee3 t\u1ed1i \u0111a",
+                "value": "KHT",
+                "parentId": 2850,
+                "priority": 29
+            }, {
+                "id": 2858,
+                "name": "Ba\u0300n phi\u0301m",
+                "value": " th\u01b0\u01a1\u0300ng , kh\u00f4ng phi\u0301m s\u00f4\u0301 , kh\u00f4ng \u0111e\u0300n ",
+                "parentId": 2847,
+                "priority": 59
+            }, {
+                "id": 2862,
+                "name": "VR",
+                "value": " kh\u00f4ng h\u00f4\u0303 tr\u01a1\u0323 ",
+                "parentId": 2847,
+                "priority": 71
+            }],
+            "warranty": {
+                "months": 12,
+                "description": null
+            },
+            "createdAt": "2019-05-20T18:39:43+00:00",
+            "salePoint": 0,
+            "displayName": "",
+            "color": {
+                "code": "012",
+                "name": "B\u1ea1c"
+            },
+            "tags": [],
+            "promotionPrices": [],
+            "promotions": [],
+            "flashSales": [],
+            "attributeSet": {
+                "id": 1,
+                "name": "Laptop"
+            },
+            "categories": [{
+                "id": 1,
+                "code": "01-N001",
+                "name": "Laptop",
+                "level": 1,
+                "parentId": 0
+            }, {
+                "id": 74,
+                "code": "01-N001-03",
+                "name": "Laptop Dell",
+                "level": 2,
+                "parentId": 1
+            }, {
+                "id": 96,
+                "code": "01-N001-03-02",
+                "name": "Laptop Dell Win",
+                "level": 3,
+                "parentId": 74
+            }, {
+                "id": 99,
+                "code": "01-N001-03-02-01",
+                "name": "Laptop Dell Win 1.1",
+                "level": 4,
+                "parentId": 96
+            }],
+            "magentoId": 18550,
+            "seoInfo": {
+                "metaKeyword": "",
+                "metaTitle": "",
+                "metaDescription": "",
+                "shortDescription": "- CPU: <br>- M\u00e0n h\u00ecnh: , kh\u00f4ng ca\u0309m \u01b0\u0301ng <br>- RAM: Kh\u00f4ng c\u00f3 <br>- \u0110\u1ed3 h\u1ecda: <br>- L\u01b0u tr\u1eef: <br>- H\u1ec7 \u0111i\u1ec1u h\u00e0nh: <br>- Pin:",
+                "description": ""
+            },
+            "rating": {
+                "averagePoint": null,
+                "voteCount": 0
+            },
+            "allActiveFlashSales": [],
+            "sku": "1303214",
+            "name": "Laptop/ M\u00e1y t\u00ednh x\u00e1ch tay Dell 5437-D8MMY2 (B\u1ea1c)",
+            "url": "laptop-may-tinh-xach-tay-dell-5437-d8mmy2-bac",
+            "brand": {
+                "code": "DELL",
+                "name": "Dell"
+            },
+            "status": {
+                "publish": true,
+                "sale": "ngung_kinh_doanh"
+            },
+            "objective": {
+                "code": "sale",
+                "name": "H\u00e0ng \u0111\u1ec3 b\u00e1n"
+            },
+            "productType": {
+                "code": "product",
+                "name": "S\u1ea3n ph\u1ea9m c\u00f3 th\u1ec3 l\u01b0u tr\u1eef"
+            },
+            "images": [{
+                "url": "https://img1.phongvu.vn/media/catalog/product/d/e/dell-5437-d8mmy2-1.png",
+                "priority": 1
+            }, {
+                "url": "https://img1.phongvu.vn/media/catalog/product/d/e/dell-5437-d8mmy2-2.png",
+                "priority": 2
+            }, {
+                "url": "https://img1.phongvu.vn/media/catalog/product/d/e/dell-5437-d8mmy2-3.png",
+                "priority": 3
+            }],
+            "price": {
+                "supplierSalePrice": null,
+                "sellPrice": null
+            },
+            "productLine": {
+                "code": "NGH01",
+                "name": "Laptop / Apple"
+            },
+            "stocks": [],
+            "totalAvailable": null,
+            "isBundle": null,
+            "bundleProducts": null,
+            "parentBundles": null,
+            "totalAvailableByStocks": []
+        }
+    }
+}

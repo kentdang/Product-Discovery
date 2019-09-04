@@ -1,0 +1,767 @@
+{
+    "code": "SUCCESS",
+    "result": {
+        "products": [
+            {
+                "displayName": "",
+                "color": {
+                    "code": "007",
+                    "name": "Đen"
+                },
+                "tags": [],
+                "promotionPrices": [],
+                "promotions": [],
+                "flashSales": [],
+                "attributeSet": {
+                    "id": 1,
+                    "name": "Laptop"
+                },
+                "categories": [
+                    {
+                        "id": 93,
+                        "code": "01-N001-02-02-01",
+                        "name": "Laptop Asus Win 1.1",
+                        "level": 4,
+                        "parentId": 90
+                    }
+                ],
+                "magentoId": 18164,
+                "seoInfo": {
+                    "metaKeyword": null,
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "shortDescription": "- CPU: <br>- Màn hình: , không cảm ứng <br>- RAM: Không có <br>- Đồ họa: <br>- Lưu trữ: <br>- Hệ điều hành: <br>- Pin:",
+                    "description": null
+                },
+                "rating": {
+                    "averagePoint": null,
+                    "voteCount": 0
+                },
+                "allActiveFlashSales": [],
+                "sku": null,
+                "name": "Laptop/ Máy tính xách tay Asus S550CA-CJ013H (I3 3217U) (Đen)",
+                "url": "laptop-may-tinh-xach-tay-asus-s550ca-cj013h-i3-3217u-den",
+                "brand": {
+                    "code": "ASUS",
+                    "name": "ASUS"
+                },
+                "status": {
+                    "publish": true,
+                    "sale": "ngung_kinh_doanh"
+                },
+                "objective": {
+                    "code": "sale",
+                    "name": "Hàng để bán"
+                },
+                "productType": {
+                    "code": "product",
+                    "name": "Sản phẩm có thể lưu trữ"
+                },
+                "images": [
+                    {
+                        "url": "https://img1.phongvu.vn/media/catalog/product/l/a/laptop-asus-s550ca-cj013h-15.6-i3-3217u-hdd-500gb-ssd-24gb-3.jpg",
+                        "priority": 1
+                    },
+                    {
+                        "url": "https://img1.phongvu.vn/media/catalog/product/l/a/laptop-asus-s550ca-cj013h-15.6-i3-3217u-hdd-500gb-ssd-24gb-2.jpg",
+                        "priority": 2
+                    },
+                    {
+                        "url": "https://img1.phongvu.vn/media/catalog/product/l/a/laptop-asus-s550ca-cj013h-15.6-i3-3217u-hdd-500gb-ssd-24gb-1.jpg",
+                        "priority": 3
+                    }
+                ],
+                "price": {
+                    "supplierSalePrice": null,
+                    "sellPrice": null
+                },
+                "productLine": {
+                    "code": "NGH01",
+                    "name": "Laptop / Apple"
+                },
+                "stocks": [],
+                "totalAvailable": null,
+                "isBundle": null,
+                "bundleProducts": null,
+                "parentBundles": null,
+                "totalAvailableByStocks": []
+            },
+            {
+                "displayName": "",
+                "color": {
+                    "code": "007",
+                    "name": "Đen"
+                },
+                "tags": [],
+                "promotionPrices": [],
+                "promotions": [],
+                "flashSales": [],
+                "attributeSet": {
+                    "id": 1,
+                    "name": "Laptop"
+                },
+                "categories": [
+                    {
+                        "id": 91,
+                        "code": "01-N001-02-01-01",
+                        "name": "Laptop Asus Option 1.1",
+                        "level": 4,
+                        "parentId": 89
+                    }
+                ],
+                "magentoId": 18277,
+                "seoInfo": {
+                    "metaKeyword": null,
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "shortDescription": "- CPU: <br>- Màn hình: <br>- Đồ họa: <br>- Lưu trữ: <br>- Hệ điều hành: <br>- Pin:",
+                    "description": null
+                },
+                "rating": {
+                    "averagePoint": null,
+                    "voteCount": 0
+                },
+                "allActiveFlashSales": [],
+                "sku": "1302046",
+                "name": "Laptop/ Máy tính xách tay Asus K46CB-WX153 (I5-3337U) (Đen)",
+                "url": "laptop-may-tinh-xach-tay-asus-k46cb-wx153-i5-3337u-den",
+                "brand": {
+                    "code": "ASUS",
+                    "name": "ASUS"
+                },
+                "status": {
+                    "publish": false,
+                    "sale": "ngung_kinh_doanh"
+                },
+                "objective": {
+                    "code": "sale",
+                    "name": "Hàng để bán"
+                },
+                "productType": {
+                    "code": "product",
+                    "name": "Sản phẩm có thể lưu trữ"
+                },
+                "images": [],
+                "price": {
+                    "supplierSalePrice": null,
+                    "sellPrice": null
+                },
+                "productLine": {
+                    "code": "NGH01",
+                    "name": "Laptop / Apple"
+                },
+                "stocks": [],
+                "totalAvailable": null,
+                "isBundle": null,
+                "bundleProducts": null,
+                "parentBundles": null,
+                "totalAvailableByStocks": []
+            },
+            {
+                "displayName": "",
+                "color": {
+                    "code": "072",
+                    "name": "Xám"
+                },
+                "tags": [],
+                "promotionPrices": [],
+                "promotions": [],
+                "flashSales": [],
+                "attributeSet": {
+                    "id": 1,
+                    "name": "Laptop"
+                },
+                "categories": [
+                    {
+                        "id": 91,
+                        "code": "01-N001-02-01-01",
+                        "name": "Laptop Asus Option 1.1",
+                        "level": 4,
+                        "parentId": 89
+                    }
+                ],
+                "magentoId": 18278,
+                "seoInfo": {
+                    "metaKeyword": null,
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "shortDescription": "- CPU: <br>- Màn hình: <br>- Đồ họa: <br>- Lưu trữ: <br>- Hệ điều hành: <br>- Pin:",
+                    "description": null
+                },
+                "rating": {
+                    "averagePoint": null,
+                    "voteCount": 0
+                },
+                "allActiveFlashSales": [],
+                "sku": "1302052",
+                "name": "Laptop/ Máy tính xách tay Asus X550CA-XX120D (I5-3337U) (Xám)",
+                "url": "laptop-may-tinh-xach-tay-asus-x550ca-xx120d-i5-3337u-xam",
+                "brand": {
+                    "code": "ASUS",
+                    "name": "ASUS"
+                },
+                "status": {
+                    "publish": false,
+                    "sale": "ngung_kinh_doanh"
+                },
+                "objective": {
+                    "code": "sale",
+                    "name": "Hàng để bán"
+                },
+                "productType": {
+                    "code": "product",
+                    "name": "Sản phẩm có thể lưu trữ"
+                },
+                "images": [],
+                "price": {
+                    "supplierSalePrice": null,
+                    "sellPrice": null
+                },
+                "productLine": {
+                    "code": "NGH01",
+                    "name": "Laptop / Apple"
+                },
+                "stocks": [],
+                "totalAvailable": null,
+                "isBundle": null,
+                "bundleProducts": null,
+                "parentBundles": null,
+                "totalAvailableByStocks": []
+            },
+            {
+                "displayName": "",
+                "color": {
+                    "code": "055",
+                    "name": "Trắng"
+                },
+                "tags": [],
+                "promotionPrices": [],
+                "promotions": [],
+                "flashSales": [],
+                "attributeSet": {
+                    "id": 1,
+                    "name": "Laptop"
+                },
+                "categories": [
+                    {
+                        "id": 115,
+                        "code": "01-N001-06-01-01",
+                        "name": "Laptop Toshiba Option 1.1",
+                        "level": 4,
+                        "parentId": 113
+                    }
+                ],
+                "magentoId": 18299,
+                "seoInfo": {
+                    "metaKeyword": null,
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "shortDescription": "- CPU: <br>- Màn hình: <br>- Đồ họa: <br>- Lưu trữ: <br>- Hệ điều hành: <br>- Pin:",
+                    "description": null
+                },
+                "rating": {
+                    "averagePoint": null,
+                    "voteCount": 0
+                },
+                "allActiveFlashSales": [],
+                "sku": "1302287",
+                "name": "Laptop/ Máy tính xách tay Toshiba L40-AS103W (Trắng)",
+                "url": "laptop-may-tinh-xach-tay-toshiba-l40-as103w-trang",
+                "brand": {
+                    "code": "TOSHIB",
+                    "name": "Toshiba"
+                },
+                "status": {
+                    "publish": false,
+                    "sale": "ngung_kinh_doanh"
+                },
+                "objective": {
+                    "code": "sale",
+                    "name": "Hàng để bán"
+                },
+                "productType": {
+                    "code": "product",
+                    "name": "Sản phẩm có thể lưu trữ"
+                },
+                "images": [],
+                "price": {
+                    "supplierSalePrice": null,
+                    "sellPrice": null
+                },
+                "productLine": {
+                    "code": "NGH01",
+                    "name": "Laptop / Apple"
+                },
+                "stocks": [],
+                "totalAvailable": null,
+                "isBundle": null,
+                "bundleProducts": null,
+                "parentBundles": null,
+                "totalAvailableByStocks": []
+            },
+            {
+                "displayName": "",
+                "color": {
+                    "code": "074",
+                    "name": "Xanh"
+                },
+                "tags": [],
+                "promotionPrices": [],
+                "promotions": [],
+                "flashSales": [],
+                "attributeSet": {
+                    "id": 1,
+                    "name": "Laptop"
+                },
+                "categories": [
+                    {
+                        "id": 115,
+                        "code": "01-N001-06-01-01",
+                        "name": "Laptop Toshiba Option 1.1",
+                        "level": 4,
+                        "parentId": 113
+                    }
+                ],
+                "magentoId": 18300,
+                "seoInfo": {
+                    "metaKeyword": null,
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "shortDescription": "- CPU: <br>- Màn hình: <br>- Đồ họa: <br>- Lưu trữ: <br>- Hệ điều hành: <br>- Pin:",
+                    "description": null
+                },
+                "rating": {
+                    "averagePoint": null,
+                    "voteCount": 0
+                },
+                "allActiveFlashSales": [],
+                "sku": "1302290",
+                "name": "Laptop/ Máy tính xách tay Toshiba L40-AS103B (Xanh)",
+                "url": "laptop-may-tinh-xach-tay-toshiba-l40-as103b-xanh",
+                "brand": {
+                    "code": "TOSHIB",
+                    "name": "Toshiba"
+                },
+                "status": {
+                    "publish": false,
+                    "sale": "ngung_kinh_doanh"
+                },
+                "objective": {
+                    "code": "sale",
+                    "name": "Hàng để bán"
+                },
+                "productType": {
+                    "code": "product",
+                    "name": "Sản phẩm có thể lưu trữ"
+                },
+                "images": [],
+                "price": {
+                    "supplierSalePrice": null,
+                    "sellPrice": null
+                },
+                "productLine": {
+                    "code": "NGH01",
+                    "name": "Laptop / Apple"
+                },
+                "stocks": [],
+                "totalAvailable": null,
+                "isBundle": null,
+                "bundleProducts": null,
+                "parentBundles": null,
+                "totalAvailableByStocks": []
+            },
+            {
+                "displayName": "",
+                "color": {
+                    "code": "001",
+                    "name": "Đỏ"
+                },
+                "tags": [],
+                "promotionPrices": [],
+                "promotions": [],
+                "flashSales": [],
+                "attributeSet": {
+                    "id": 1,
+                    "name": "Laptop"
+                },
+                "categories": [
+                    {
+                        "id": 91,
+                        "code": "01-N001-02-01-01",
+                        "name": "Laptop Asus Option 1.1",
+                        "level": 4,
+                        "parentId": 89
+                    }
+                ],
+                "magentoId": 18398,
+                "seoInfo": {
+                    "metaKeyword": null,
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "shortDescription": "- CPU: <br>- Màn hình: <br>- Đồ họa: <br>- Lưu trữ: <br>- Hệ điều hành: <br>- Pin:",
+                    "description": null
+                },
+                "rating": {
+                    "averagePoint": null,
+                    "voteCount": 0
+                },
+                "allActiveFlashSales": [],
+                "sku": "1302673",
+                "name": "Laptop/ Máy tính xách tay Asus K450CA-WX088 (I5-3337U) (Đỏ)",
+                "url": "laptop-may-tinh-xach-tay-asus-k450ca-wx088-i5-3337u-do",
+                "brand": {
+                    "code": "ASUS",
+                    "name": "ASUS"
+                },
+                "status": {
+                    "publish": false,
+                    "sale": "ngung_kinh_doanh"
+                },
+                "objective": {
+                    "code": "sale",
+                    "name": "Hàng để bán"
+                },
+                "productType": {
+                    "code": "product",
+                    "name": "Sản phẩm có thể lưu trữ"
+                },
+                "images": [],
+                "price": {
+                    "supplierSalePrice": null,
+                    "sellPrice": null
+                },
+                "productLine": {
+                    "code": "NGH01",
+                    "name": "Laptop / Apple"
+                },
+                "stocks": [],
+                "totalAvailable": null,
+                "isBundle": null,
+                "bundleProducts": null,
+                "parentBundles": null,
+                "totalAvailableByStocks": []
+            },
+            {
+                "displayName": "",
+                "color": {
+                    "code": "007",
+                    "name": "Đen"
+                },
+                "tags": [],
+                "promotionPrices": [],
+                "promotions": [],
+                "flashSales": [],
+                "attributeSet": {
+                    "id": 1,
+                    "name": "Laptop"
+                },
+                "categories": [
+                    {
+                        "id": 87,
+                        "code": "01-N001-01-02-01",
+                        "name": "Laptop Acer Win 1.1",
+                        "level": 4,
+                        "parentId": 84
+                    }
+                ],
+                "magentoId": 18538,
+                "seoInfo": {
+                    "metaKeyword": null,
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "shortDescription": "- CPU: <br>- Màn hình: <br>- Đồ họa: <br>- Lưu trữ: <br>- Hệ điều hành: <br>- Pin:",
+                    "description": null
+                },
+                "rating": {
+                    "averagePoint": null,
+                    "voteCount": 0
+                },
+                "allActiveFlashSales": [],
+                "sku": "1303144",
+                "name": "Laptop/ Máy tính xách tay Acer E1-470-33212G50Dnkk (002) (Đen)",
+                "url": "laptop-may-tinh-xach-tay-acer-e1-470-33212g50dnkk-002-den",
+                "brand": {
+                    "code": "ACER",
+                    "name": "Acer"
+                },
+                "status": {
+                    "publish": false,
+                    "sale": "ngung_kinh_doanh"
+                },
+                "objective": {
+                    "code": "sale",
+                    "name": "Hàng để bán"
+                },
+                "productType": {
+                    "code": "product",
+                    "name": "Sản phẩm có thể lưu trữ"
+                },
+                "images": [],
+                "price": {
+                    "supplierSalePrice": null,
+                    "sellPrice": null
+                },
+                "productLine": {
+                    "code": "NGH01",
+                    "name": "Laptop / Apple"
+                },
+                "stocks": [],
+                "totalAvailable": null,
+                "isBundle": null,
+                "bundleProducts": null,
+                "parentBundles": null,
+                "totalAvailableByStocks": []
+            },
+            {
+                "displayName": "",
+                "color": {
+                    "code": "012",
+                    "name": "Bạc"
+                },
+                "tags": [],
+                "promotionPrices": [],
+                "promotions": [],
+                "flashSales": [],
+                "attributeSet": {
+                    "id": 1,
+                    "name": "Laptop"
+                },
+                "categories": [
+                    {
+                        "id": 99,
+                        "code": "01-N001-03-02-01",
+                        "name": "Laptop Dell Win 1.1",
+                        "level": 4,
+                        "parentId": 96
+                    }
+                ],
+                "magentoId": 18550,
+                "seoInfo": {
+                    "metaKeyword": null,
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "shortDescription": "- CPU: <br>- Màn hình: , không cảm ứng <br>- RAM: Không có <br>- Đồ họa: <br>- Lưu trữ: <br>- Hệ điều hành: <br>- Pin:",
+                    "description": null
+                },
+                "rating": {
+                    "averagePoint": null,
+                    "voteCount": 0
+                },
+                "allActiveFlashSales": [],
+                "sku": "1303214",
+                "name": "Laptop/ Máy tính xách tay Dell 5437-D8MMY2 (Bạc)",
+                "url": "laptop-may-tinh-xach-tay-dell-5437-d8mmy2-bac",
+                "brand": {
+                    "code": "DELL",
+                    "name": "Dell"
+                },
+                "status": {
+                    "publish": true,
+                    "sale": "ngung_kinh_doanh"
+                },
+                "objective": {
+                    "code": "sale",
+                    "name": "Hàng để bán"
+                },
+                "productType": {
+                    "code": "product",
+                    "name": "Sản phẩm có thể lưu trữ"
+                },
+                "images": [
+                    {
+                        "url": "https://img1.phongvu.vn/media/catalog/product/d/e/dell-5437-d8mmy2-1.png",
+                        "priority": 1
+                    },
+                    {
+                        "url": "https://img1.phongvu.vn/media/catalog/product/d/e/dell-5437-d8mmy2-2.png",
+                        "priority": 2
+                    },
+                    {
+                        "url": "https://img1.phongvu.vn/media/catalog/product/d/e/dell-5437-d8mmy2-3.png",
+                        "priority": 3
+                    }
+                ],
+                "price": {
+                    "supplierSalePrice": null,
+                    "sellPrice": null
+                },
+                "productLine": {
+                    "code": "NGH01",
+                    "name": "Laptop / Apple"
+                },
+                "stocks": [],
+                "totalAvailable": null,
+                "isBundle": null,
+                "bundleProducts": null,
+                "parentBundles": null,
+                "totalAvailableByStocks": []
+            },
+            {
+                "displayName": "",
+                "color": {
+                    "code": "072",
+                    "name": "Xám"
+                },
+                "tags": [],
+                "promotionPrices": [],
+                "promotions": [],
+                "flashSales": [],
+                "attributeSet": {
+                    "id": 1,
+                    "name": "Laptop"
+                },
+                "categories": [
+                    {
+                        "id": 91,
+                        "code": "01-N001-02-01-01",
+                        "name": "Laptop Asus Option 1.1",
+                        "level": 4,
+                        "parentId": 89
+                    }
+                ],
+                "magentoId": 18585,
+                "seoInfo": {
+                    "metaKeyword": null,
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "shortDescription": "- CPU: <br>- Màn hình: <br>- Đồ họa: <br>- Lưu trữ: <br>- Hệ điều hành: <br>- Pin:",
+                    "description": null
+                },
+                "rating": {
+                    "averagePoint": null,
+                    "voteCount": 0
+                },
+                "allActiveFlashSales": [],
+                "sku": "1303357",
+                "name": "Laptop/ Máy tính xách tay Asus X450LA-WX021 (I5-4200U) (Xám)",
+                "url": "laptop-may-tinh-xach-tay-asus-x450la-wx021-i5-4200u-xam",
+                "brand": {
+                    "code": "ASUS",
+                    "name": "ASUS"
+                },
+                "status": {
+                    "publish": false,
+                    "sale": "ngung_kinh_doanh"
+                },
+                "objective": {
+                    "code": "sale",
+                    "name": "Hàng để bán"
+                },
+                "productType": {
+                    "code": "product",
+                    "name": "Sản phẩm có thể lưu trữ"
+                },
+                "images": [],
+                "price": {
+                    "supplierSalePrice": null,
+                    "sellPrice": null
+                },
+                "productLine": {
+                    "code": "NGH01",
+                    "name": "Laptop / Apple"
+                },
+                "stocks": [],
+                "totalAvailable": null,
+                "isBundle": null,
+                "bundleProducts": null,
+                "parentBundles": null,
+                "totalAvailableByStocks": []
+            },
+            {
+                "displayName": "",
+                "color": {
+                    "code": "072",
+                    "name": "Xám"
+                },
+                "tags": [],
+                "promotionPrices": [],
+                "promotions": [],
+                "flashSales": [],
+                "attributeSet": {
+                    "id": 1,
+                    "name": "Laptop"
+                },
+                "categories": [
+                    {
+                        "id": 91,
+                        "code": "01-N001-02-01-01",
+                        "name": "Laptop Asus Option 1.1",
+                        "level": 4,
+                        "parentId": 89
+                    }
+                ],
+                "magentoId": 18586,
+                "seoInfo": {
+                    "metaKeyword": null,
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "shortDescription": "- CPU: <br>- Màn hình: , không cảm ứng <br>- RAM: Không có <br>- Đồ họa: <br>- Lưu trữ: <br>- Hệ điều hành: <br>- Pin:",
+                    "description": null
+                },
+                "rating": {
+                    "averagePoint": null,
+                    "voteCount": 0
+                },
+                "allActiveFlashSales": [],
+                "sku": "1303358",
+                "name": "Laptop/ Máy tính xách tay Asus K450CC-WX263D (I3-3217U) (Xám)",
+                "url": "laptop-may-tinh-xach-tay-asus-k450cc-wx263d-i3-3217u-xam",
+                "brand": {
+                    "code": "ASUS",
+                    "name": "ASUS"
+                },
+                "status": {
+                    "publish": true,
+                    "sale": "ngung_kinh_doanh"
+                },
+                "objective": {
+                    "code": "sale",
+                    "name": "Hàng để bán"
+                },
+                "productType": {
+                    "code": "product",
+                    "name": "Sản phẩm có thể lưu trữ"
+                },
+                "images": [
+                    {
+                        "url": "https://img1.phongvu.vn/media/catalog/product/a/s/asus-k450cc-wx263d-1.png",
+                        "priority": 1
+                    },
+                    {
+                        "url": "https://img1.phongvu.vn/media/catalog/product/a/s/asus-k450cc-wx263d-2.png",
+                        "priority": 2
+                    },
+                    {
+                        "url": "https://img1.phongvu.vn/media/catalog/product/a/s/asus-k450cc-wx263d-3.png",
+                        "priority": 3
+                    },
+                    {
+                        "url": "https://img1.phongvu.vn/media/catalog/product/a/s/asus-k450cc-wx263d-4.png",
+                        "priority": 4
+                    }
+                ],
+                "price": {
+                    "supplierSalePrice": null,
+                    "sellPrice": null
+                },
+                "productLine": {
+                    "code": "NGH01",
+                    "name": "Laptop / Apple"
+                },
+                "stocks": [],
+                "totalAvailable": null,
+                "isBundle": null,
+                "bundleProducts": null,
+                "parentBundles": null,
+                "totalAvailableByStocks": []
+            }
+        ],
+        "keywords": [],
+        "filters": []
+    },
+    "extra": {
+        "totalItems": 29,
+        "page": 1,
+        "pageSize": 10
+    }
+}
